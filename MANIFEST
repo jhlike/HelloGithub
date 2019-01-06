@@ -1,0 +1,16 @@
+HelloGithub
+	|   COPYING
+	|   CREDITS
+	|   FAQ
+	|   HelloGithub.cpp
+	|   HelloGithub.exe
+	|   HISTORY
+	|   INSTALL
+	|   LICENSE
+	|   MANIFEST
+	|   NEWS
+	|   TAGS
+	|
+	\---.vscode
+			launch.json
+			tasks.json
