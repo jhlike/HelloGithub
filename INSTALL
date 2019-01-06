@@ -1,0 +1,2 @@
+只需要clone本项目到本地，然后如果使用VSCODE，有mingw且已经配置好换件变量，在修改launch.json的相关配置之后，可以在打开cpp文件的情况下直接Ctrl+Shift+B选择build任务来编译，然后F5运行
+由于本开发者安装的是cygnus，以及对cygnus的不了解，导致暂时性的不能直接傻瓜式编译运行，再次向诸位表示歉意。
